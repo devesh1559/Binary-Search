@@ -19,4 +19,4 @@ int binary_search(int array[],int key, int l,int r
 	Element Not found
   
 ## Conclusion
-It works 
+It works for sorted arrays only
